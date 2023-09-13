@@ -1,6 +1,6 @@
 # Credit Card Approval Predictor
 
-<img src="creditcard.png" width="200">
+<img src="creditcard.png" width="600">
 
 
 Welcome to the Credit Card Approval Predictor project! In this machine learning project, you will build an automatic credit card approval predictor using machine learning techniques, just like commercial banks do.
